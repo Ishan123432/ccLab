@@ -1,0 +1,7 @@
+customhost = "cclabtest.c90mq22yu2a9.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Xalty947"
+customdb = "cclab"
+custombucket = "mycclabtestbucket"
+customregion = "ap-south-1"
+customtable = "employee"
